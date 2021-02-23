@@ -51,5 +51,20 @@
     <ClCompile Include="4.3 praise2.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4.13 prntval.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4.15 input.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2 shoes2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.5 wheat.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.6 divide.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
