@@ -1,3 +1,4 @@
+// practice 6.6.5.c
 #include <stdio.h>
 int main(void)
 {
