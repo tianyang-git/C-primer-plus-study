@@ -1,8 +1,8 @@
-# C 
+# C-study-record
 
 Book
 
-- C Prinmer Plus
+- C Primer Plus
 - C 陷阱与缺陷
 - 一站式学习 C 编程
 - C 和指针
